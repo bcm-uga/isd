@@ -1,0 +1,15 @@
+Package: isd
+Type: Package
+Title: Data for ISD
+Version: 0.1.0
+Author: Olivier François
+Maintainer: Olivier François <olivier.francois@grenoble-inp.fr>
+Description: This package contains functions and data used in the course "Introduction to Data Science" by Olivier Francois.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    knitr,
+    rmarkdown,
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
